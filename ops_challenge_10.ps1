@@ -2,11 +2,6 @@
 Title: System Process Commands
 Author: Jamie Giannini
 
-Overview:
-Create a PoweShell script that performs the below operations on separate lines. The overall script is not designed
-to operate holistically, but rather act as a reference for how to execute various interesting and important
-operations with the process family of PowerShell commandlets. 
-
 Tasks:
 [X] Print to the terminal screen all active processes ordered by highest CPU time consumption at the top  
 [X] Print to the terminal screen all active processes ordered by highest Process Identification Number at the top
